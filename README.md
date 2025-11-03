@@ -16,6 +16,12 @@ The Venice Boat Classification project uses Deep Learning to classify different 
 *Evaluation (Accuracy, Loss, Confusion Matrix)
 *Prediction on new images
 
+## 📂 Dataset
+* The dataset used is the Venice Boat Dataset, containing labeled images of different boat types.
+* Sources:
+* Provided dataset (https://drive.google.com/drive/folders/1ASBFMEBo3qgVu4R0k43YTxMaFqdB62Oi?usp=drive_link)
+* Images are organized into folders by boat type.
+
 ## Technologies Used
 * Python
 * TensorFlow / Keras
